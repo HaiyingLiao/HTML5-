@@ -12,6 +12,7 @@
 
 | Lesson | Title | Summary |
 |--------|-------|---------|
+| 0 | [网页是怎么运作的](learning-material/00-how-the-web-works.md) | 初步了解网站背后的工作原理：浏览器、服务器、HTML/CSS/JS 的角色 |
 | 1 | [HTML 简介](learning-material/01-html-intro.md) | 了解 HTML 是什么、基本语法结构及正确嵌套方式  |
 
 
