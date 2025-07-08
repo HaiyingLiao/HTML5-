@@ -9,12 +9,11 @@
 
 ## 📚 当前已完成内容
 
-- [x] HTML 是什么？
-- [x] 元素（Element）和标签结构
-- [x] 文档结构与 `index.html`
-- [x] 段落 `<p>` 和标题 `<h1>`～`<h6>`
-- [x] 元素嵌套（Nesting）
-- [x] 语义化 HTML（Semantic HTML）
+
+| Lesson | Title | Summary |
+|--------|-------|---------|
+| 1 | [HTML 简介](learning-material/01-html-intro.md) | 了解 HTML 是什么、基本语法结构及正确嵌套方式  |
+
 
 🚧 待添加内容（计划中）：
 
