@@ -37,6 +37,7 @@
 |--------|-------|---------|
 | 00 | [网页是怎么运作的](learning-material/00-how-the-web-works.md) | 初步了解网站背后的工作原理：浏览器、服务器、HTML/CSS/JS 的角色 |
 | 01 | [HTML 简介](learning-material/01-html-intro.md) | 了解 HTML 是什么、基本语法结构及正确嵌套方式  |
+| 01 | [网页结构的开始 —— 从标题和段落开始](learning-material/02-headings-paragraphs-and-structure.md) | 学习使用标题与段落元素，理解网页结构与语义化标签的重要性  |
 
 
 🚧 待添加内容（计划中）：
